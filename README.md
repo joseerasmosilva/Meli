@@ -1,4 +1,5 @@
 Meli Customer Behavior Prediction
+
 This project aims to predict customer purchasing behavior using machine learning models on a dataset from Meli, an e-commerce platform. The project utilizes various machine learning algorithms to analyze user history and item data to forecast which items a user is likely to purchase.
 
 Project Structure
